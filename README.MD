@@ -1,1 +1,1 @@
--> https://github.com/SAlexVL/rsschool-cv/cv
+https://github.com/SAlexVL/rsschool-cv/cv
